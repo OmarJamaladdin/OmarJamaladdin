@@ -1,4 +1,4 @@
-<h1>Hi, I'm Omar, an <a href="https://linkedin.com/in/omar-jamaladdin-8a2719277">IT Professional>
+<h1>Hi, I'm Omar, an <a href="https://linkedin.com/in/omar-jamaladdin-8a2719277">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
