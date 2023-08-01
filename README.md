@@ -4,6 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Omarjamaladdin/osticket-prereqs)
+  - [osTicket: Ticket intake and Resolution] (https://github.com/OmarJamaladdin/ticket-lifecycle) 
 
 - <b>Microsoft Azure</b>
  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Omarjamaladdin/azure-network-protocols)
